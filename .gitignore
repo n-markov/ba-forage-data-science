@@ -219,3 +219,4 @@ __marimo__/
 
 # Forage-provided datasets (not ours to redistribute)
 data/*.xlsx
+data/*.csv
